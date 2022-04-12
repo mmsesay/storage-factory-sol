@@ -1,1 +1,3 @@
-# simple-storage-solidity
+# simple-storage-factory-solidity
+
+> This project illustrates the functionality of interacting with external contracts and learing about implementing inheritance, and function calls.
